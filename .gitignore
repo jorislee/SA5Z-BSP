@@ -1,0 +1,14 @@
+
+*/*/*/Listings/*
+*/*/*/Objects/*
+*/*/*/*.bin
+*/*/*/*.lst
+*/*/*/*.uvguix.*
+
+.vscode/
+
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+*/*/*/*/.DS_Store
